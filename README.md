@@ -1,1 +1,1 @@
-# Pavlovia-Shiny-Redirector (VESPR-Clone)
+# Pavlovia-Shiny-Redirector
